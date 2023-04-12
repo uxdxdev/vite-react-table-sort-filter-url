@@ -1,3 +1,5 @@
+![Workflow Status](https://github.com/uxdxdev/vite-react-table-sort-filter-url/actions/workflows/deploy-github-pages.yml/badge.svg)
+
 # Bootstrap
 
 ```
