@@ -1,5 +1,11 @@
 ![Workflow Status](https://github.com/uxdxdev/vite-react-table-sort-filter-url/actions/workflows/deploy-github-pages.yml/badge.svg)
 
+There are a couple of benefits of implementing search with URL params:
+
+- Bookmarkable and Shareable URLs: Since the search parameters are in the URL, users can bookmark the current state of the application, including their search queries and filters, for future reference or sharing.
+- Server-Side Rendering and Initial Load: URL parameters can be directly consumed on the server to render the initial state, making it easier to handle server rendering.
+- Analytics and Tracking: Having search queries and filters directly in the URL makes it easier to track user behavior without requiring additional client-side logic.
+
 # Bootstrap
 
 ```
